@@ -23,7 +23,7 @@ To add these tags to your own recipes, you should go to the directory data/MODID
   ],
   "key": {//this section tells the game what the symbols from before mean
       "$":{
-          "item":"forge:gem/ruby" //the ruby tag
+          "item":"forge:gem/ruby" //the ruby tag.
       },
     "#": {
       "tag": "forge:rods/wooden" //an extra tag. it means stick
